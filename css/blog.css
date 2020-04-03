@@ -173,8 +173,10 @@ h6, .h6 {
  .container.spanner {
   height:100vh;
  }
+
+
  .whti-logo img {
   padding-top: 48px;
-  width: 85%;
+  width: 100%;
   height: auto;
  }
