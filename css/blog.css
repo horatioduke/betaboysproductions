@@ -170,9 +170,7 @@ h6, .h6 {
  * Additional Styling
  */
 
- .container.spanner {
-  height:100vh;
- }
+
 
 
  .whti-logo img {
@@ -180,3 +178,7 @@ h6, .h6 {
   width: 100%;
   height: auto;
  }
+
+@media (min-width: 768px) and (max-width: 991px) { ... }
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 1200px) { ... }
